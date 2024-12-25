@@ -1,0 +1,6 @@
+uploaded_img/*
+!uploaded_img/.gitkeep
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
